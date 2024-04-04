@@ -20,7 +20,7 @@ Ubuntu İşletim Sistemi, donanım ve yazılım arasında süren işlemler aras�
 -   **VGA Destekli 1024 x 768 Piksel**
 
 -   ## DNS Nedir ?
-DNS, “Domain Name System’in kısaltmasıdır ve internet üzerindeki bilgisayarların, cihazların veya kaynakların IP adresleri ile daha anlamlı ve hatırlanabilir alan adları arasındaki bağlantıyı sağlayan bir sistemdir. IP adresleri sayısal formda olduğu için insanlar tarafından kolayca hatırlanamayabilir. DNS, bu sayısal IP adreslerini, insanların daha rahat anlayabileceği alan adlarına çevirir. Örneğin, bir web tarayıcısına www.yelizg.com yazdığınızda, DNS bu alan adını karşılık gelen IP adresine çevirir ve isteğinizin doğru sunucuya ulaşmasını sağlar.
+DNS, “Domain Name System’in kısaltmasıdır ve internet üzerindeki bilgisayarların, cihazların veya kaynakların IP adresleri ile daha anlamlı ve hatırlanabilir alan adları arasındaki bağlantıyı sağlayan bir sistemdir. IP adresleri sayısal formda olduğu için insanlar tarafından kolayca hatırlanamayabilir. DNS, bu sayısal IP adreslerini, insanların daha rahat anlayabileceği alan adlarına çevirir. Örneğin, bir web tarayıcısına www.minnaklar.com yazdığınızda, DNS bu alan adını karşılık gelen IP adresine çevirir ve isteğinizin doğru sunucuya ulaşmasını sağlar.
 
 ## DNS Amacı ve Önemi
 DNS’in temel amacı, internet üzerindeki cihazların, bilgisayarların veya kaynakların sayısal IP adresleri ile daha anlamlı ve hatırlanabilir alan adları arasında bir çeviri yapmaktır. Yani, DNS, insanların web tarayıcılarına yazdıkları alan adlarını, bu sitelere karşılık gelen IP adreslerine dönüştürerek internet trafiğini yönlendirir.
